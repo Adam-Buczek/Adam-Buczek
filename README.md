@@ -1,4 +1,4 @@
-- 👋 Cześć, tu Adam Buczek @Buczuss. Aktualnie Master Data Engineer w jednym z banków w Polsce.
+- 👋 Cześć, tu Adam Buczek @Buczuss. Przez wiele lat Master Data Engineer w jednym z banków w Polsce. Aktualnie ETL Developer w różnych projektach ;)
 - 👀 Interesuję się szeroko pojętym BI.
 - 🌱 Aktualnie samodzielnie uczę się Pythona i podstaw poruszania się w usługach chmurowych.
 - 📫 Jestem dostępny pod adresem: buczek.adam@wp.pl lub w mediach: 
